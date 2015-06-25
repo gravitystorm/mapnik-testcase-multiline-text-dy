@@ -1,0 +1,13 @@
+{
+    "name": "buses",
+    "version": "0.0.1",
+    "private": true,
+    "main": "./test.js",
+    "description": "Example showing missing labels",
+    "dependencies": {
+        "tilelive-bridge": "1.3.0",
+        "tilelive-vector": "3.2.6",
+        "tilelive-file": "0.0.3",
+        "tilelive": "5.7.1"
+    }
+}

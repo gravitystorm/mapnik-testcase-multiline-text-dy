@@ -1,0 +1,13 @@
+{
+    "description": "", 
+    "center": "0,0,2", 
+    "bounds": "-180,-85.0511,180,85.0511", 
+    "version": "1.0.0", 
+    "template": "", 
+    "name": "empty",
+    "retry": true,
+    "conditional": true,
+    "minzoom": 0,
+    "maxzoom": 14,
+    "maskLevel": 8
+}
